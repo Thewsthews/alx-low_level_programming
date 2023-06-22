@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*8
+/**
  * main - check the code
  *
  * Return: Always 0
